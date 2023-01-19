@@ -1,5 +1,5 @@
 # Super Mario Brothers and Map Maker 11th Grade Final Project
-## Project was built from scratch with buildin Java graphics. Therw was no use of a premade physics engine.
+## Project was built using Java graphics from the javax libraries. There was no use of a premade physics engine, all physics was created from scratch..
 
 ## Main Menu screen
 ![image](https://user-images.githubusercontent.com/49328304/213336352-30991512-dd1c-49b6-8c13-dba5469b258d.png)
